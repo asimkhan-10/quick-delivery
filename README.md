@@ -6,8 +6,8 @@ Quick Delivery is a comprehensive web application for managing deliveries, consi
 
 The project is divided into two main repositories/directories located within the `QuickDelivery` folder:
 
-- `QUICK DELIVERY/`: The Laravel backend API.
-- `quick-delivery/`: The React (Vite) frontend application.
+- `backend/`: The Laravel backend API.
+- `frontend/`: The React (Vite) frontend application.
 
 ## Tech Stack
 
