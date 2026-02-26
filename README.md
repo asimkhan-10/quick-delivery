@@ -24,6 +24,8 @@ The project is divided into two main repositories/directories located within the
 - **HTTP Client:** Axios
 - **Other utilities:** React Signature Canvas
 
+  ![Screenshot](images/ss.jpeg)
+
 ## Prerequisites
 
 Before setting up the project, ensure you have the following installed on your machine:
