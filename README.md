@@ -39,7 +39,7 @@ Before setting up the project, ensure you have the following installed on your m
 
 1. Navigate to the backend directory:
    ```bash
-   cd "QuickDelivery/QUICK DELIVERY"
+   cd "QuickDelivery/backend"
    ```
 2. Install PHP dependencies:
    ```bash
@@ -68,7 +68,7 @@ Before setting up the project, ensure you have the following installed on your m
 
 1. Navigate to the frontend directory:
    ```bash
-   cd QuickDelivery/quick-delivery
+   cd QuickDelivery/frontend
    ```
 2. Install Node.js dependencies:
    ```bash
