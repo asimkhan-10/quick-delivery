@@ -24,7 +24,7 @@ The project is divided into two main repositories/directories located within the
 - **HTTP Client:** Axios
 - **Other utilities:** React Signature Canvas
 
-  ![Screenshot](images/ss.jpeg)
+  ![Screenshot](https://github.com/asimkhan-10/quick-delivery/blob/main/SS.jpeg)
 
 ## Prerequisites
 
