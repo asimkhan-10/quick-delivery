@@ -9,6 +9,8 @@ The project is divided into two main repositories/directories located within the
 - `QUICK DELIVERY/`: The Laravel backend API.
 - `quick-delivery/`: The React (Vite) frontend application.
 
+**Home**
+  ![Screenshot](https://github.com/asimkhan-10/quick-delivery/blob/main/QuickDelivery%20-%20Web%20App/SS.jpeg)
 ## Tech Stack
 
 ### Backend
